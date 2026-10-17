@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">A1_253A010012</string>
+    <string name="title">Lab A1 - Vòng đời Activity</string>
+    <string name="student">Lê Thiên Nga - MSSV 253A010012</string>
+    <string name="clear">Xóa log</string>
+    <string name="crash">Gây lỗi</string>
+    <string name="finish">Thoát</string>
+</resources>

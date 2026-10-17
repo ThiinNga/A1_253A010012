@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.A1_253A010012" parent="Theme.AppCompat.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.A1_253A010012" parent="Base.Theme.A1_253A010012" />
+</resources>
